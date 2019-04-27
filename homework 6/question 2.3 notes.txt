@@ -1,0 +1,13 @@
+2.3:
+
+#used the same standardscaler() pre-processing.
+
+learning_rate = 0.1
+batch_size = 100
+num_epochs = 20
+lr_decay = 0.95
+hidden_dim = [10, 5]
+#4 layer model
+
+training_accuracy = 0.756
+validation_accuracy = 0.751

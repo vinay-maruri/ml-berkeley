@@ -1,0 +1,173 @@
+part 1:
+For subject '129', the keyframes reflect the movement that is labeled. The legs that 
+are in motion are properly labeled and the images are shot from the correct 
+angle. All parts of the body are in the shot, thus allowing for correct keypoint
+labelling in the future. 
+
+For subject '129', the keypoint annotations also seem to be accurate and high-quality, 
+as all parts of the body appear to be consistently and correctly labelled
+This is confirmed when we remove the image and only plot the keypoints--by
+doing so we see that the keypoints' general shape form what we expect the 
+exercise to generally look like. 
+
+For subject '029', the keyframes reflect the movement that is labeled. The images are shot from 
+the correct angle but the body parts in motion are not properly labeled. All 
+body parts are not in the shot, hence correct keypoint labelling 
+may not be possible in future.
+
+For subject '029', the keypoint annotations are not accurate except 
+for the reach movement. When we remove the keyframes and only see the keypoints, 
+the labelled points look glob-like and nothing like the general form of
+the exercise they are supposed to reflect.
+
+For subject '048', the keyframes reflect the movement that is labeled. The legs that 
+are in motion are properly labeled and the images are shot from the correct 
+angle. All parts of the body are in the shot, thus allowing for correct keypoint
+labelling in the future.
+
+For subject '048', the keypoint annotations also seem to be accurate and high-quality, 
+as all parts of the body appear to be consistently and correctly labelled
+This is confirmed when we remove the image and only plot the keypoints--by
+doing so we see that the keypoints' general shape form what we expect the 
+exercise to generally look like. 
+
+For subject '072', the keyframes reflect the movement that is labeled. The legs that 
+are in motion are properly labeled and the images are shot from the correct 
+angle. All parts of the body are in the shot, thus allowing for correct keypoint
+labelling in the future.
+
+For subject '072', the keypoint annotations also seem to be accurate and high-quality, 
+as all parts of the body appear to be consistently and correctly labelled
+This is confirmed when we remove the image and only plot the keypoints--by
+doing so we see that the keypoints' general shape form what we expect the 
+exercise to generally look like.
+
+For subject '086', the keyframes reflect the movement that is labeled. The legs that 
+are in motion are properly labeled and the images are shot from the correct 
+angle. All parts of the body are in the shot, thus allowing for correct keypoint
+labelling in the future.
+
+For subject '086', the keypoint annotations also seem to be accurate and high-quality, 
+as all parts of the body appear to be consistently and correctly labelled
+This is confirmed when we remove the image and only plot the keypoints--by
+doing so we see that the keypoints' general shape form what we expect the 
+exercise to generally look like.
+
+For subject '098', the keyframes reflect the movement that is labeled. The legs
+that are in motion are properly labeled, but the images are not shot from the 
+correct angle. It also appears that there are 2 different subjects represented
+in the keyframes. For inline left and right, there appears to be a different
+person doing the exercise than the rest of the movements. All parts of the body are in the shot, thus allowing for correct keypoint
+labelling in the future.
+
+For subject '098', the keypoint annotations also seem to be accurate and high-quality, 
+as all parts of the body appear to be consistently and correctly labelled
+This is confirmed when we remove the image and only plot the keypoints--by
+doing so we see that the keypoints' general shape form what we expect the 
+exercise to generally look like.
+
+For subject '132', the keyframes reflect the movement that is labeled. The legs
+that are in motion are properly labeled, and the images are shot from the correct
+angle. However, half the exercises are shot in portrait mode as specified, but the 
+other half are shot in landscape mode. 
+
+For subject '132', the keypoint annotations seem to be inaccurate for the portrait images and accurate
+for the landscape images. For reach, squat, inline, and lunge, the keypoints are not labelled properly and 
+plotting the keypoints alone does not give the general form of the exercise. However, they are correctly 
+labeled for hamstrings, stretch, deadbug, and pushup. 
+
+For subject '184', the keyframes reflect the movement that is labeled. The legs that 
+are in motion are properly labeled and the images are shot from the correct 
+angle. All parts of the body are in the shot, thus allowing for correct keypoint
+labelling in the future.
+
+For subject '184', the keypoint annotations also seem to be accurate and high-quality, 
+as all parts of the body appear to be consistently and correctly labelled
+This is confirmed when we remove the image and only plot the keypoints--by
+doing so we see that the keypoints' general shape form what we expect the 
+exercise to generally look like.
+
+For subject '195', the keyframes reflect the movement that is labeled. The legs that 
+are in motion are properly labeled and the images are shot from the correct 
+angle. All parts of the body are in the shot, thus allowing for correct keypoint
+labelling in the future.
+
+For subject '195', the keypoint annotations also seem to be accurate and high-quality, 
+as all parts of the body appear to be consistently and correctly labelled
+This is confirmed when we remove the image and only plot the keypoints--by
+doing so we see that the keypoints' general shape form what we expect the 
+exercise to generally look like.
+
+For subject '246', the keyframes reflect the movement that is labeled. The legs that 
+are in motion are properly labeled and the images are shot from the correct 
+angle. All parts of the body are in the shot, thus allowing for correct keypoint
+labelling in the future.
+
+For subject '246', the keypoint annotations also seem to be accurate and high-quality, 
+as all parts of the body appear to be consistently and correctly labelled
+This is confirmed when we remove the image and only plot the keypoints--by
+doing so we see that the keypoints' general shape form what we expect the 
+exercise to generally look like.
+
+
+part 2:
+For squats, the poses appear to be fairly varied. It appears that some students get deeper into the stretch by bending their knees more, while others
+emphasize their posterior more. Furthermore, some students raise their arms straight above their head
+while others raise their arms up at an angle close to 45 degrees. They keypoints are also inconsistently
+labeled, with some correct and others not. Also, the shooting angle appears to be inconsistent. Lighting is also inconsistent, especially
+because it appears that some students shot this outside, while others shot in apartments, and finally some students shot in darker indoor areas. 
+Frame aspect is fairly stable across subjects, as most look to be standardized to around the specified 30 fps, sans for some outliers with poor quality images. 
+
+I chose to secondly visualize left lunges. A random selection of these poses shows that there is less variation in how students performed this exercise. 
+Most students extend their left leg forward and their right leg backward such that the right knee is just above the ground and the left leg is at a close to 90 degree angle. 
+Most keypoints are mostly correctly labeled. The shooting angle is inconsistent again, as some students shot at the correct angle/perspective, while others shot close to straight on. Lighting seems to be more standardized, as there
+are more students who completed this exercise is well-lit areas indoors. There are still however a few students who completed these exercises in darker indoor areas. 
+Frame aspect is fairly stable across subjects, as most look to be standardized to around the specified 30 fps, sans for some outliers with smaller aspect ratios.
+
+When I visualized the last set of 15 random frames of any kind, I see significant variation in lighting, poses, shooting angle, but keypoints appear to mostly be labelled properly. 
+Frame aspect is fairly stable across subjects. 
+
+part 3:
+for subject '129', it appears that the annotation location is correct across all 
+the subject's images, the keypoint colors are correct, and that the number of people detected is 1 (except for pushup where 2 people are detected.)
+The bounding box mostly captures the body of the subject, with the exception of pushup where 
+the subject's right hand is detected as a second person. 
+for the 15 video frames for 'squat', the images appear to be consistently labelled in terms of keypoint annotations and color.
+Furthermore, the bounding box appears to capture the subject's body in motion, and correctly identifies 
+that only 1 body is present in the frame.
+
+For subject '029', the annotation location is correct across all the subject's
+images, they keypoint colors are correct, and the images appear to be consistently labeled. 
+
+For subject '048',  the annotation location is correct across all the subject's
+images, they keypoint colors are correct, and the images appear to be consistently labeled. 
+
+For subject '072', the annotation location is correct across all the subject's
+images, they keypoint colors are correct, and the images appear to be consistently labeled. 
+However, the lighting appears to be inconsistent across this individual's video frames, as in some 
+images there is lots of light to the point of discoloration, while other images appear to be muted and somewhat dimly
+lit. 
+
+For subject '086', the annotation location is correct across all the subject's
+images, they keypoint colors are correct, and the images appear to be consistently labeled. 
+
+For subject '098', the annotation location is correct across all the subject's
+images, they keypoint colors are correct, and the images appear to be consistently labeled. 
+One thing to note, the subject's images are in two different background settings (location change) and 
+the subject is wearing different clothing across the different images, potentially introducing noise into the frame
+data. 
+
+For subject '132', the annotation location is correct across all the subject's
+images, they keypoint colors are correct, and the images appear to be consistently labeled. 
+Two things to note: for hamstrings, stretch, deadbug, and pushup, the video frames appear to be warped at the edges
+similar to a fisheye effect compressing the body and background of the subject. Thus, there is new noise
+potentially introduced, as the video frames indicate the the size of the subject's limbs has changed across exercises due to the 
+frame warping. 
+The sampling rate appears to only sometimes capture the movement. The sampling rate of the video frames
+does not appear to be uniform, thus capturing the different exercises at different stages, sometimes when the exercises is in progress, other times when the 
+exercise is done or before it is performed. 
+
+part d:
+The plot of raw neck keypoint exhibits a wide spread, meaning that there is a lot of variation/statistical noise in labeled neck keypoint annotations. There is a cluster of points between 500-1500 on the x and y axes, with signficant numbers of outliers outside of this clustered area.
+However, after normalization, there is much less spread/variation/noise. Keypoint coordinates are tightly clustered around 0-1 on the x-axis and around 0 on the y-axis. There are only a few noticeable outliers. It appears that the procrustes analysis normalized our labelled neck keypoint coordinates
+well. Different neck shapes and body shapes have been accounted for well with the normalization method, creating a more consistent placement of the neck coordinate labels for our model to learn.

@@ -1,0 +1,12 @@
+2.2:
+hidden_dim = [10,5]
+batch size = 100
+num_epochs = 10
+learning_rate = 0.1
+lr_decay = 0.95
+I used pre-processing (Standard Scaler from sci-kit learn) to demean and 
+descale both the training and validation data.
+
+training_accuracy = 0.923
+validation_accuracy = 0.885
+debug was off.
